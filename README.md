@@ -1,2 +1,2 @@
 # SpanishTranslatorNLP
-This Spanish-English translator was created with NLP using transformers for GMT2 in python.
+This NLP Spanish-English translator was created using GPT2 in python with TensorFlow.
